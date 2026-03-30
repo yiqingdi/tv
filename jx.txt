@@ -92,6 +92,10 @@ Channel U,http://cdn6.163189.xyz/163189/chu
 星河频道,http://cdn10.163189.xyz/163189/xinghe
 ViuTV,https://cdn10.163189.xyz/stream/163189/viu/
 ViuTVsix,https://cdn10.163189.xyz/stream/163189/viu6/
+TVB星河国语,https://cdn10.163189.xyz/stream/163189/xinghe/
+天映频道(新加坡),https://cdn10.163189.xyz/stream/163189/typd/
+天映经典,https://cdn10.163189.xyz/stream/163189/ccm/
+CCTV1港澳版,https://cdn10.163189.xyz/stream/163189/cctv1/
 CCTV1,https://cdn13.178.indevs.in/163189/bea1d91d91364062
 CCTV13,https://cdn13.178.indevs.in/163189/790bc5f7f0f06879
 重温经典,https://cdn13.178.indevs.in/163189/21d79187db6e9793
