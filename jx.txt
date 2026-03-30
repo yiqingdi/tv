@@ -73,7 +73,8 @@ ViuTVsix,https://cdn.163189.xyz/163189/viu6
 RTHK31,https://cdn.163189.xyz/163189/rthk31
 RTHK32,https://cdn.163189.xyz/163189/rthk32
 HOY77,http://cdn.163189.xyz/163189/hoy
-HOY剧集,http://cdn.163189.xyz/163189/hoyjj
+HOY资讯台,http://cdn.163189.xyz/163189/hoy78
+HOY剧集台,http://cdn.163189.xyz/163189/hoyjj
 八度空間,http://cdn6.163189.xyz/163189/8tv
 Channel 5,http://cdn6.163189.xyz/163189/ch5
 Channel 8,http://cdn6.163189.xyz/163189/ch8
@@ -85,8 +86,10 @@ Channel U,http://cdn6.163189.xyz/163189/chu
 龙华日韩,http://cdn8.163189.xyz/163189/lhrh
 龙华电影,http://cdn8.163189.xyz/163189/lhdy
 龙华洋片,http://cdn8.163189.xyz/163189/lhyp
-五星体育,https://cdn3.163189.xyz/163189/wxty
-第一财经,https://cdn3.163189.xyz/163189/dycj
+CCTV13,http://cdn3.163189.xyz/163189/cctv13
+第一财经,http://cdn3.163189.xyz/163189/dycj
+五星体育,http://cdn3.163189.xyz/163189/wxty
+海峡卫视,http://cdn3.163189.xyz/163189/hxws
 天映频道,http://cdn10.163189.xyz/163189/typd
 天映经典,http://cdn10.163189.xyz/163189/ccm
 星河频道,http://cdn10.163189.xyz/163189/xinghe
@@ -186,32 +189,47 @@ Astro欢喜台,https://cdn9.163189.xyz/smt3.1.1.php?id=Huahee
 
 
 TVOD,#genre#
-澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
-澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
-亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
-TVBPlus源2,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-翡翠台马来西亚版,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-翡翠台源1,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台源2,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-翡翠台源3,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台源4,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯源2,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-无线新闻台源2,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct
+翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct2
+翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct3
+翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct4
+明珠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=mzt
+明珠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=mzt2
+翡翠台北美版(TVB J1),https://php.jdshipin.com:2096/TVOD/iptv.php?id=j1
+TVB J1,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbj1
+TVB Plus,https://php.jdshipin.com:2096/TVOD/iptv.php?id=j2
+TVB Plus,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbp
+无线新闻,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbxw
+无线新闻,https://php.jdshipin.com:2096/TVOD/iptv.php?id=wxxwt
+VIUTV,https://php.jdshipin.com:2096/TVOD/iptv.php?id=viutv
+VIUTV,https://php.jdshipin.com:2096/TVOD/iptv.php?id=viutv2
+HOY TV,https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv
+HOY TV,https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv2
+凤凰中文,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhzw
+凤凰中文,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhzw2
+凤凰资讯,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhzx
+凤凰资讯,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhzx2
+凤凰香港,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhhk
+凤凰香港,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhhk2
+美亚电影,https://php.jdshipin.com:2096/TVOD/iptv.php?id=meiya
+重温经典,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cwjd
+广东珠江,https://php.jdshipin.com:2096/TVOD/iptv.php?id=gdzj
+广东体育,https://php.jdshipin.com:2096/TVOD/iptv.php?id=gdty
+澳视澳门,https://php.jdshipin.com:2096/TVOD/iptv.php?id=asam
+澳视卫星,https://php.jdshipin.com:2096/TVOD/iptv.php?id=as
+RTHK31,https://php.jdshipin.com:2096/TVOD/iptv.php?id=rthk31
+RTHK32,https://php.jdshipin.com:2096/TVOD/iptv.php?id=rthk32
+CCTV1港澳版,https://php.jdshipin.com:2096/TVOD/iptv.php?id=rthk33
+华丽翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=huali
+TVB星河, https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbxh
+千禧经典台, https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbc
+Astro AOD,https://php.jdshipin.com:2096/TVOD/iptv.php?id=aod
+华丽翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=huali2
+亚洲武侠,https://php.jdshipin.com:2096/TVOD/iptv.php?id=yzwx
+TVB生活台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbsh
+TVB娱乐新闻台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbylxw
+无线新闻台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=wxxw
+TVB星河,https://php.jdshipin.com:2096/TVOD/iptv.php?id=xinghe
 
 Smt,#genre#
 八度空间,http://php.jdshipin.com/smt.php?id=TV8
